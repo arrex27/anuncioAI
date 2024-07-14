@@ -4,7 +4,7 @@
 
 La inteligencia artificial no solo está transformando la forma en que trabajamos y nos comunicamos, sino también cómo cuidamos de nuestra salud mental.
 
-[Nombre de la app] es tu compañera de bienestar emocional, utilizando la IA para ofrecerte:
+SerenAI es tu compañera de bienestar emocional, utilizando la IA para ofrecerte:
 
 - Meditaciones guiadas personalizadas
 - Seguimiento de tu estado de ánimo
